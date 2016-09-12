@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Display Exercise
 
 This exercise will provide you with practice with IntelliJ, Tomee+, MySqL and Maven, while providing a refresher
@@ -57,3 +58,7 @@ To begin using this project:
 
 1. The completed application will provide the ability to search for and display users from the database. The user display/search results
     should include id, first name, last name, and age. At minimum, provide a last name search. Some TODOs have been added to help you get started.
+=======
+# Exercise1
+repository of Exercise 1
+>>>>>>> a51b5c3885ffc90af9dc4e46140fd71b8b4be97a
